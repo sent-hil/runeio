@@ -6,7 +6,7 @@ runeio is a library that provides functions to help work with runes from an unde
 
 ## Getting started
 
-    // See https://github.com/sent-hil/bitlang/blob/master/runeio/runeio.go#L4
+    // See https://godoc.org/github.com/sent-hil/runeio#RuneReader
     // for `RuneReader` interface.
     //
     // `bufio.Reader`, `bytes.Reader` and `strings.Reader` all implement the
