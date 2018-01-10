@@ -1,6 +1,6 @@
 # runeio
 
-runeio is a library that provides functions to help work with runes from an underlying io.Reader.
+runeio is a library for manipulating runes from an underlying io.Reader.
 
 [![Documentation](https://godoc.org/github.com/sent-hil/runeio?status.svg)](https://godoc.org/github.com/sent-hil/runeio)
 
